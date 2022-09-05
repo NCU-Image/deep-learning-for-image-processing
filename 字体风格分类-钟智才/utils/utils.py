@@ -6,7 +6,7 @@ def step_decay(epoch):
     :return: 返回学习率
     """
     if epoch < 30 :
-        lrate =  1e-3
+        lrate = 1e-3
     elif epoch < 90:
         lrate = 1e-4
     else:

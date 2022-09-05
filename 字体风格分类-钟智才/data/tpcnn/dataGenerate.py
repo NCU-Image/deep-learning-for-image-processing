@@ -34,7 +34,8 @@ class DATA_TPCNN():
     x_testI5_savepath = root_dir + 'x_testI5.npy'
     y_test_savepath = root_dir + 'y_test.npy'
 
-    data_path = r"E:\Pycharms\AI\Calligraphy\DATA"
+    # data_path = r"E:\Pycharms\AI\Calligraphy\DATA"
+    data_path = r"/Users/william/Documents/数据集/wbblur"
 
 
 
