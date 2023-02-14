@@ -1,2 +1,3 @@
 #
-from utils.get_max import *
+from utils.paper_utils import *
+from utils.loss import *
