@@ -1,1 +1,0 @@
-from triplet_net.facenet import *
